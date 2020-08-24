@@ -10,3 +10,4 @@ Proyecto con el sensor DTH11 (Temperatura y humedad)
 - Modulo rele
 - Portabateria 9v
 - Batería 9v
+- Ventilador
